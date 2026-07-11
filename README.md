@@ -2,7 +2,7 @@
 
 ### DevOps & Cloud Engineer | AI Infrastructure Enthusiast
 
-Software Engineering graduate focused on building production-inspired cloud infrastructure, automating deployments, and designing scalable platforms for modern applications and AI workloads.
+Software Engineering graduate passionate about DevOps, Cloud Computing, Kubernetes, and AI Infrastructure. I enjoy building scalable infrastructure, automating deployments, and exploring MLOps and LLM deployment workflows through hands-on projects.
 
 ---
 
@@ -10,7 +10,7 @@ Software Engineering graduate focused on building production-inspired cloud infr
 
 ## Atlas
 
-**Atlas** is my flagship engineering project—a production-inspired Internal Developer Platform (IDP) designed for deploying and operating AI workloads.
+**Atlas** is my flagship engineering project which is a production-inspired Internal Developer Platform (IDP) designed for deploying and operating AI workloads.
 
 Rather than learning tools in isolation, Atlas is built around solving real infrastructure problems using modern DevOps and Platform Engineering practices. Every technology introduced into Atlas serves a specific engineering purpose and reflects how production systems evolve.
 
@@ -31,7 +31,7 @@ Rather than learning tools in isolation, Atlas is built around solving real infr
 
 > Every technology should solve a real engineering problem.
 >
-> Atlas is built by introducing tools only when they solve a genuine infrastructure challenge—not because they're popular.
+> Atlas is built by introducing tools only when they solve a genuine infrastructure challenge and not because they're popular.
 
 ---
 
@@ -49,8 +49,7 @@ An infrastructure-focused project exploring efficient local deployment of Large 
 - Reduced memory and VRAM consumption while maintaining practical inference performance
 - Built reusable Modelfile templates for configurable local deployments
 
-**Repository:**
-🔗 https://github.com/WaleedKhan02/llm-inference-optimization
+Repository:** [View Repository →](https://github.com/WaleedKhan02/llm-inference-optimization)
 
 ---
 
@@ -68,36 +67,33 @@ An end-to-end MLOps project demonstrating containerization, Kubernetes orchestra
 - Implemented monitoring with Prometheus and Grafana dashboards
 - Leveraged Kubernetes rolling updates for application availability
 
-**Repository:**  
-🔗 https://github.com/WaleedKhan02/pneumonia-k8s-deployment
+**Repository:** [View Repository →](https://github.com/WaleedKhan02/pneumonia-k8s-deployment)
 
----
+##Tech Stack
 
-# 🛠️ Tech Stack
-
-## Containerization & Orchestration
+### Containerization & Orchestration
 
 - Docker
 - Docker Compose
 - Kubernetes
 - Helm
 
-## Cloud & Infrastructure
+### Cloud & Infrastructure
 
 - AWS
 - Terraform
 - Linux (Ubuntu/WSL2)
 
-## CI/CD
+### CI/CD
 
 - GitHub Actions
 
-## Monitoring & Observability
+### Monitoring & Observability
 
 - Prometheus
 - Grafana
 
-## AI & Backend
+### AI & Backend
 
 - Python
 - FastAPI
