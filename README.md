@@ -69,7 +69,7 @@ An end-to-end MLOps project demonstrating containerization, Kubernetes orchestra
 
 **Repository:** [View Repository →](https://github.com/WaleedKhan02/pneumonia-k8s-deployment)
 
-##Tech Stack
+## 🛠️ Tech Stack
 
 ### Containerization & Orchestration
 
